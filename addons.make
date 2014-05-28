@@ -1,0 +1,4 @@
+ofxXmlSettings
+ofxAVFVideoPlayer
+ofxSyphon
+ofxUI
